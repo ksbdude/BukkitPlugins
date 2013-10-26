@@ -1,0 +1,11 @@
+name: Plugin
+main: me.ksbdude.Plugin
+version: 1.0
+description: >
+             Custom Plugin by ksbdude.
+commands:
+  sendme:
+    description: Sends a player a message!
+commands:
+  setslapperspawn:
+    description: Sets slapper spawn!
