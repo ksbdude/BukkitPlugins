@@ -1,5 +1,5 @@
-name: Plugin
-main: me.ksbdude.Plugin
+name: Arena
+main: me.ksbdude.ArenaManager
 version: 1.0
 description: >
              Custom Plugin by ksbdude.
